@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#7EB3E7</color>
+    <color name="light_grey">#000000</color>
+    <color name="expenses_color">#2B42AB</color>
+    <color name="income_color">#54B0E7</color>
+    <color name="light_blue">#7EB3E7</color>
+    <color name="red">#E00D2A</color>
+    <color name="bg_color">#2C2C2C</color>
+    <color name="nav_color">#A9A9A9</color>
+    <color name="item_color">#FF000000</color>
+</resources>

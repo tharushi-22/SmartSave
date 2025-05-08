@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.LabExam03" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.LabExam03" parent="Base.Theme.LabExam03">
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/blue</item>
+    </style>
+
+    <style name="Theme.LabExam_03" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Required for MaterialAutoCompleteTextView to work properly -->
+        <item name="materialThemeOverlay">@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">#FF4081</item>
+    </style>
+
+</resources>
